@@ -1,23 +1,35 @@
-----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 04/24/2014 01:39:00 PM
--- Design Name: 
--- Module Name: axi_gpio - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
-
+-- 	File: dyplo_connect_b2f_fifo.vhd
+--	
+--	© COPYRIGHT 2014 TOPIC EMBEDDED PRODUCTS B.V. ALL RIGHTS RESERVED.
+--	
+--	This file contains confidential and proprietary information of 
+--	Topic Embedded Products B.V. and is protected under Dutch and 
+--	International copyright and other international intellectual property laws.
+--	
+--	Disclaimer
+--	
+--	This disclaimer is not a license and does not grant any rights to the 
+--	materials distributed herewith. Except as otherwise provided in a valid 
+--	license issued to you by Topic Embedded Products B.V., and to the maximum 
+--	extend permitted by applicable law:
+--
+--	1.	Dyplo is furnished on an "as is", as available basis. Topic makes no 
+--	warranty, express or implied, with respect to the capability of Dyplo. All 
+--	warranties of any type, express or implied, including the warranties of 
+--	merchantability, fitness for a particular purpose and non-infringement of 
+--	third party rights are expressly disclaimed.
+--	
+--	2.	Topic's maximum total liability shall be limited to general money 
+--	damages in an amount not to exceed the total amount paid for in the year 
+--	in which the damages have occurred.  Under no circumstances including 
+--	negligence shall Topic be liable for direct, indirect, incidental, special, 
+--	consequential or punitive damages, or for loss of profits, revenue, or data, 
+--	that are directly or indirectly related to the use of, or the inability to 
+--	access and use Dyplo and related services, whether in an action in contract, 
+--	tort, product liability, strict liability, statute or otherwise even if 
+--	Topic has been advised of the possibility of those damages. 
+--	
+--	This copyright notice and disclaimer must be retained as part of this file at all times.
 
 library IEEE;
 use ieee.std_logic_1164.ALL;
